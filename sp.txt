@@ -1,0 +1,1 @@
+withheld: Antigravity built-in system prompt is not exposed to the user
