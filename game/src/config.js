@@ -1,4 +1,5 @@
-// Configuration and tuning constants for LANTERNFALL
+// Configuration and gameplay balance parameters for LANTERNFALL
+// Atmospheric arena-survival lantern weapon mechanics
 
 export const CANVAS = {
   width: 960,

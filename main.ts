@@ -1,4 +1,5 @@
 // Lanternfall make.fun entry hand-in program (Node 22, standard library only)
+// Hand in the game directory and screenshots, generating the dossier for scoring
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
